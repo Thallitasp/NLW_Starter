@@ -1,0 +1,27 @@
+{
+  "name": "NextLevelWeek_Starter",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido com a Rocketseat.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thallitasp/NextLevelWeek_Starter.git"
+  },
+  "keywords": [],
+  "author": "Thallita Pedreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thallitasp/NextLevelWeek_Starter/issues"
+  },
+  "homepage": "https://github.com/Thallitasp/NextLevelWeek_Starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
